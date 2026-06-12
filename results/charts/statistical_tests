@@ -1,0 +1,5 @@
+metric	           H_stat	  p_value	    significant
+hedging_score	      1.878	    0.391	    No
+moral_score	       6.1687	   0.0458	    Yes
+certainty_score	  19.6278	   0.0001	    Yes
+response_length	  58.6875	        0	    Yes
