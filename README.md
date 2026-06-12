@@ -82,7 +82,7 @@ visualize.py → 10 charts
 ## Requirements
  
 A HuggingFace API key is required to run `collect.py` and `ethics_eval.py`.
-Create a `.env` file in the project root with:
+Change the API key in `.env` file in the project root with your Key:
 ```
 HF_API_KEY=your_key_here
 ```
