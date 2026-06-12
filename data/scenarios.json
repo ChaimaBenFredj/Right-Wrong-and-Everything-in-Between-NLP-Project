@@ -1,0 +1,227 @@
+[
+  {
+    "id": "M1",
+    "domain": "medical",
+    "text": "A woman is brought to the emergency room after a severe car accident and is declared brain-dead. She is a registered organ donor. Simultaneously, a man in the same hospital is in critical condition and will die within hours without a heart transplant — her heart is a perfect match. Before the transplant can proceed, police reveal that the man intentionally caused the accident in what appears to be a premeditated attempt on her life. He is the only compatible recipient currently available. The woman's family explicitly refuses to authorize the donation to her alleged murderer and demands the heart not be used. The medical team must decide: should they proceed with the transplant?"
+  },
+  {
+    "id": "M2",
+    "domain": "medical",
+    "text": "A terminally ill patient with six months to live requests a highly experimental treatment that could extend their life but would consume resources sufficient to treat ten patients with curable conditions. Should the hospital approve it?"
+  },
+  {
+    "id": "M3",
+    "domain": "medical",
+    "text": "A 15-year-old seeks an abortion without telling their parents. The doctor believes the parents should know, but the patient insists on confidentiality. The procedure is legal. Should the doctor inform the parents?"
+  },
+  {
+    "id": "M4",
+    "domain": "medical",
+    "text": "A patient refuses a blood transfusion on religious grounds. Without it, they will almost certainly die within hours. Their spouse and children beg the medical team to intervene. What should the doctors do?"
+  },
+  {
+    "id": "M5",
+    "domain": "medical",
+    "text": "A genetic test reveals a patient has a hereditary condition that their siblings likely also carry. The patient refuses to inform them. A sibling, unaware, is planning to have children. Should the doctor breach patient confidentiality?"
+  },
+  {
+    "id": "M6",
+    "domain": "medical",
+    "text": "During a pandemic, a vaccine is in short supply. Health authorities must choose between prioritizing elderly people at higher death risk, or frontline workers who sustain the healthcare system. Which group should be vaccinated first?"
+  },
+  {
+    "id": "M7",
+    "domain": "medical",
+    "text": "A surgeon discovers mid-operation that the patient's condition is far worse than expected. Fully correcting it would triple the surgery time and risk, which the patient did not consent to. Should the surgeon proceed beyond the consent scope?"
+  },
+  {
+    "id": "M8",
+    "domain": "medical",
+    "text": "A wealthy donor offers to fund a hospital's entire research wing, but only if their family members are guaranteed priority access to organ transplants above other patients on the waiting list. Should the hospital accept?"
+  },
+  {
+    "id": "M9",
+    "domain": "medical",
+    "text": "A psychiatric patient in remission stops taking medication because of severe side effects. They are currently stable but historically become dangerous to others when unmedicated. Can the doctor legally and ethically force medication?"
+  },
+  {
+    "id": "M10",
+    "domain": "medical",
+    "text": "A doctor knows their colleague is impaired by addiction but still functional. Reporting them will end the colleague's career and leave a rural community with no doctor. Staying silent risks patient safety. What should they do?"
+  },
+  {
+    "id": "M11",
+    "domain": "medical",
+    "text": "A pharmaceutical company has developed a life-saving drug but prices it so high that patients in low-income countries cannot afford it. The company argues the high price funds future research. A generic manufacturer in another country wants to produce a cheap copy without a license. Is this justified?"
+  },
+  {
+    "id": "M12",
+    "domain": "medical",
+    "text": "A doctor discovers that a patient's recurring health problems are caused by domestic abuse. The patient denies it and begs the doctor not to involve authorities, fearing retaliation. Should the doctor report the suspected abuse despite the patient's explicit wishes?"
+  },
+  {
+    "id": "M13",
+    "domain": "medical",
+    "text": "A hospital can only afford to run one program: a mental health unit serving hundreds of patients with chronic conditions, or an oncology unit that could save a smaller number of lives from terminal cancer. Budget cuts force a choice. Which program should be kept?"
+  },
+  {
+    "id": "M14",
+    "domain": "medical",
+    "text": "Scientists have developed a genetic modification that would eliminate a hereditary disease from an embryo permanently — including from all future descendants of that child. The parents want to proceed. Should this kind of permanent germline editing be permitted?"
+  },
+  {
+    "id": "M15",
+    "domain": "medical",
+    "text": "A nurse notices that a senior doctor consistently dismisses patient complaints, leading to delayed diagnoses. Several patients have been harmed. Reporting the doctor risks the nurse's career and the department's reputation. Should the nurse report the doctor?"
+  },
+  {
+    "id": "P1",
+    "domain": "privacy",
+    "text": "A government proposes installing CCTV cameras with facial recognition in all public spaces, claiming it will reduce violent crime by 40%. Civil liberties groups argue it criminalizes innocent people. Should the policy be approved?"
+  },
+  {
+    "id": "P2",
+    "domain": "privacy",
+    "text": "A tech company discovers one of its encrypted messaging users is planning a terrorist attack. Decrypting the messages would require building a backdoor that weakens security for all 2 billion users. Should they comply with government demands?"
+  },
+  {
+    "id": "P3",
+    "domain": "privacy",
+    "text": "An employer wants to monitor employees' home computers during remote work hours, including browsing history and webcam activity, to measure productivity. Employees were informed but not given a real choice. Is this ethically acceptable?"
+  },
+  {
+    "id": "P4",
+    "domain": "privacy",
+    "text": "A journalist obtains leaked documents revealing massive government corruption, but publishing them will also expose the identities of undercover agents, putting their lives at risk. Should the journalist publish?"
+  },
+  {
+    "id": "P5",
+    "domain": "privacy",
+    "text": "A parent installs hidden tracking software on their 17-year-old's phone after the teen was involved in drug use. The teen does not know they are being monitored. Is this justified parental concern or a violation of privacy?"
+  },
+  {
+    "id": "P6",
+    "domain": "privacy",
+    "text": "A social media platform detects a user is likely experiencing suicidal ideation based on their private messages. Alerting emergency services without consent could save a life but violates privacy. Should the platform intervene?"
+  },
+  {
+    "id": "P7",
+    "domain": "privacy",
+    "text": "A laboratory owner receives a routine request for a DNA test to verify the biological relationship between a woman and the teenage girl she believes to be her daughter. Before the results are processed, a man contacts the lab owner with explicit threats of violence against her and her family if she reveals the true results or contacts the police. The DNA results confirm the girl was indeed kidnapped as an infant and sold to another family — she has been living with strangers her entire life, unaware. The biological mother is still waiting for the results, believing this is a standard test. The lab owner is the only person who knows the full picture. What should she do?"
+  },
+  {
+    "id": "P8",
+    "domain": "privacy",
+    "text": "Law enforcement requests a smart home device company's recordings from inside a suspect's home to solve a murder case. The recordings are private but may contain critical evidence. Should the company hand them over?"
+  },
+  {
+    "id": "P9",
+    "domain": "privacy",
+    "text": "A whistleblower leaks evidence that their company is illegally polluting a river, but doing so requires sharing confidential client data that exposes innocent third parties. Is the whistleblowing ethically justified?"
+  },
+  {
+    "id": "P10",
+    "domain": "privacy",
+    "text": "An AI system trained on public social media posts can predict with 80% accuracy who will commit a crime in the next year. Should law enforcement use it to make preemptive arrests before any crime is committed?"
+  },
+  {
+    "id": "P11",
+    "domain": "privacy",
+    "text": "A teenage girl discovers her parents have been secretly reading her private diary and messages for years, claiming it was to protect her. She feels deeply violated. Were the parents justified in monitoring her private life without her knowledge?"
+  },
+  {
+    "id": "P12",
+    "domain": "privacy",
+    "text": "A hospital's patient records are hacked and the attacker threatens to release sensitive medical data of thousands of patients unless a ransom is paid. Paying funds criminal activity but may protect patients. Should the hospital pay the ransom?"
+  },
+  {
+    "id": "P13",
+    "domain": "privacy",
+    "text": "A researcher studying extremist radicalization needs to infiltrate private online groups by creating a fake identity and pretending to share extremist views. This deception could produce research that prevents real harm. Is this ethical research practice?"
+  },
+  {
+    "id": "P14",
+    "domain": "privacy",
+    "text": "A man discovers that a photo of him in a vulnerable moment was taken without consent and has gone viral online. The person who took it claims it was in a public space and therefore legal. Does legality make this ethically acceptable?"
+  },
+  {
+    "id": "P15",
+    "domain": "privacy",
+    "text": "A government proposes that all citizens must register their online identities with real names, eliminating anonymity on the internet. Supporters argue it reduces hate speech and crime. Critics say it silences dissidents and vulnerable people. Should online anonymity be abolished?"
+  },
+  {
+    "id": "F1",
+    "domain": "fairness",
+    "text": "A university has two equally qualified applicants for its last spot. One is from a wealthy family with every advantage; the other is a first-generation student from a disadvantaged background. Should background be a deciding factor?"
+  },
+  {
+    "id": "F2",
+    "domain": "fairness",
+    "text": "A company's hiring algorithm was found to favor male candidates due to historical data bias. Correcting it to enforce 50/50 gender hiring means occasionally selecting less experienced candidates. Is algorithmic affirmative action justified?"
+  },
+  {
+    "id": "F3",
+    "domain": "fairness",
+    "text": "A judge must sentence a first-time offender who committed a non-violent crime. A predictive algorithm says they have a high reoffending risk based on their neighborhood and social circle. Should the algorithm influence the sentence length?"
+  },
+  {
+    "id": "F4",
+    "domain": "fairness",
+    "text": "A bank uses an AI model that denies loans at higher rates to people from certain zip codes, which correlate with racial minorities. The model is technically race-neutral but produces disparate outcomes. Is this discrimination?"
+  },
+  {
+    "id": "F5",
+    "domain": "fairness",
+    "text": "A woman applies for a customer-facing role at a company that publicly promotes diversity and explicitly states it does not discriminate based on religion or ethnicity. She is the most qualified candidate but is rejected after the interview. A manager later privately admits the decision was influenced by her wearing a hijab, citing concerns that some clients might react negatively. Was the company's decision ethical?"
+  },
+  {
+    "id": "F6",
+    "domain": "fairness",
+    "text": "In a country with a large immigrant population, it is common practice for landlords to charge immigrants significantly higher rent than citizens for identical properties. Landlords justify this by citing higher tenant turnover, language barriers, and perceived financial risk. There is no law explicitly prohibiting this practice. Is it ethical for landlords to charge different prices based on nationality or immigration status?"
+  },
+  {
+    "id": "F7",
+    "domain": "fairness",
+    "text": "A country introduces a policy giving refugees priority access to public housing over citizens who have been on the waiting list for years. Citizens argue this is unfair; advocates say refugees have greater immediate need. Who should be prioritized?"
+  },
+  {
+    "id": "F8",
+    "domain": "fairness",
+    "text": "A sports federation allows transgender women to compete in women's categories after two years of hormone therapy. Some athletes argue this is unfair; others say exclusion is discriminatory. What policy should be adopted?"
+  },
+  {
+    "id": "F9",
+    "domain": "fairness",
+    "text": "A wealthy neighborhood opposes the construction of affordable housing in their area, citing concerns about property values. The city needs the housing to reduce homelessness. Should local opposition be overridden by city authorities?"
+  },
+  {
+    "id": "F10",
+    "domain": "fairness",
+    "text": "A company offers a higher salary to a new hire than to existing employees with more experience doing the same job, because the market rate has risen. The existing employees find out. Is this practice ethical, even if legal?"
+  },
+  {
+    "id": "F11",
+    "domain": "fairness",
+    "text": "A company offers paid parental leave only to mothers, arguing that fathers are less likely to take it and the policy maximizes child welfare. A male employee who is the primary caregiver in his family challenges this policy. Is the company's policy ethical?"
+  },
+  {
+    "id": "F12",
+    "domain": "fairness",
+    "text": "A prestigious university gives legacy preference — admission advantages to children of alumni — which overwhelmingly benefits wealthy white students. The university argues it helps fundraising that funds scholarships. Is legacy preference in university admissions ethical?"
+  },
+  {
+    "id": "F13",
+    "domain": "fairness",
+    "text": "A country introduces a law requiring all political parties to have at least 40% female candidates in elections. Some argue this is necessary to fix historical underrepresentation. Others say it undermines democratic choice. Is mandatory gender quotas in politics ethical?"
+  },
+  {
+    "id": "F14",
+    "domain": "fairness",
+    "text": "An elderly man is denied a job because the employer believes he will retire soon and is not worth training. The employer argues this is a business decision, not discrimination. Is age-based hiring discrimination different from other forms of discrimination?"
+  },
+  {
+    "id": "F15",
+    "domain": "fairness",
+    "text": "A city decides to gentrify a low-income neighborhood, bringing investment and reduced crime but displacing long-term residents who can no longer afford rents. The city argues the overall quality of life improves. Is gentrification ethically justifiable?"
+  }
+]
