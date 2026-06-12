@@ -38,6 +38,7 @@ This project examines how three large language models — LLaMA-3-70B, Qwen-2.5-
 │   ├── ethics_eval.py          # Queries LLMs on ETHICS scenarios and evaluates accuracy
 │   └── visualize.py            # Generates all charts and statistical tests
 │
+├── .env                        # Used to store the HuggingFace API key
 ├── 01_data_collection.ipynb    # Notebook: scenario design and LLM response collection
 ├── 02_analysis.ipynb           # Notebook: linguistic metrics and ETHICS benchmark evaluation
 ├── 03_classification_and_shap.ipynb  # Notebook: strategy classification and SHAP explainability
