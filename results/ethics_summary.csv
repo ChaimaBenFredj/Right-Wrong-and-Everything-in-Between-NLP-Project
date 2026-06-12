@@ -1,0 +1,10 @@
+model,subset,n_total,n_evaluated,n_unparseable,accuracy,f1
+llama3,commonsense,25,25,0,0.84,0.8462
+llama3,justice,25,25,0,0.76,0.8
+llama3,deontology,25,25,0,0.56,0.6667
+qwen,commonsense,25,25,0,0.76,0.75
+qwen,justice,25,25,0,0.72,0.7586
+qwen,deontology,25,25,0,0.76,0.7857
+deepseek,commonsense,25,25,0,0.8,0.8
+deepseek,justice,25,25,0,0.64,0.5263
+deepseek,deontology,25,25,0,0.64,0.64
